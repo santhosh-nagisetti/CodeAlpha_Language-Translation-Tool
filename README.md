@@ -53,7 +53,7 @@ pip install streamlit deep-translator
 ### Step 2: Run the Application
 
 ```bash
-streamlit run app.py
+streamlit run s1.py
 ```
 
 ### Step 3: Open in Browser
